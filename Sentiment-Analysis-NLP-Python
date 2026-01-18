@@ -1,0 +1,8 @@
+Sentiment-Analysis-NLP-Python/
+│
+├── data/
+│   └── reviews.csv
+│
+├── sentiment_analysis.py
+│
+└── README.md
