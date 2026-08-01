@@ -1,4 +1,4 @@
-# CodeAlpha-_Task-4
+
 # Sentiment Analysis using Python 
 
 ## 📌 Project Overview
@@ -10,7 +10,7 @@ The dataset contains customer reviews collected from:
 - Social Media
 - News Sources
 
-## 🎯 Objectives (TASK 4)
+## 🎯 Objectives 
 - Classify text into positive, negative, or neutral
 - Apply NLP lexicon-based sentiment analysis
 - Analyze public opinion and sentiment trends
